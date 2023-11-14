@@ -1,0 +1,15 @@
+{
+    "name": "marklowelmontealto/mcbportal",
+    "autoload": {
+        "psr-4": {
+            "Marklowelmontealto\\Mcbportal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KuyaGit",
+            "email": "marklowelmontealto14@gmail.com"
+        }
+    ],
+    "require": {}
+}
